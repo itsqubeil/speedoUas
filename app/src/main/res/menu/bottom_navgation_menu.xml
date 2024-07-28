@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_main"
+        android:title="Speedometer"
+        android:icon="@drawable/speedometer"
+        android:background="@android:color/white"
+        android:textColor="@android:color/black"/>
+    <item
+        android:id="@+id/nav_trip_detail"
+        android:title="Trip Detail"
+        android:icon="@drawable/diary"
+        android:background="@android:color/white"
+        android:textColor="@android:color/black"/>
+    <item
+        android:id="@+id/nav_maps"
+        android:title="Maps"
+        android:icon="@drawable/distance"
+        android:background="@android:color/white"
+        android:textColor="@android:color/black"/>
+</menu>
